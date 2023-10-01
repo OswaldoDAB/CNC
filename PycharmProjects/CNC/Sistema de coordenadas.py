@@ -1,0 +1,1 @@
+print("Control de los ejes x, y de nuestra CNC")
